@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=220&section=header&text=Shreesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=220&section=header&text=Shreesh%20Raj%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 <p align="center">
@@ -83,9 +83,10 @@ I build practical systems end to end — from hardware and control logic to soft
 
 ## Currently Building
 
+- Building an interceptor drone. Currently learning following for same:
 - ROS 2 + computer vision + robotics-focused projects  
 - Better embedded debugging and control workflows  
-- Practical AI integrations for real-world systems
+- Practical AI integrations for real-world systems. Learning Transfomers and agentic systems and real-world workflows
 
 ---
 
