@@ -42,6 +42,17 @@ I’m a student engineer focused on **embedded systems**, **robotics**, **AI/ML*
 | Programming & Technical Practice | C, Python, JavaScript, data analysis, and engineering-oriented problem solving |
 | CAD & Product Thinking | Mechanical design, iteration, and translating concepts into working prototypes |
 
+
+## 🛠️ Tech Stack
+
+### 🌐 Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+</p>
+
 ## Selected work
 
 ### Robotics & Embedded
