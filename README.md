@@ -20,7 +20,8 @@
 
 ## About
 
-I’m just a kid building stuff I find cool — embedded systems, robotics, applied AI, and much, much more. I focus on practical end-to-end projects: hardware design and firmware, control and estimation, software tooling, and  AI and ML models that are deployable in real systems.
+I’m just a kid building stuff I find cool — embedded systems, robotics, applied AI, and much, much more. I focus on practical end-to-end projects: hardware design and firmware, control and estimation, software tooling, and  AI and ML models that are deployable in real systems.  
+Contact me on shreeshtripathi13@gmail.com for more info and collaboration options.  
 
 ---
 
@@ -64,8 +65,12 @@ I’m just a kid building stuff I find cool — embedded systems, robotics, appl
 
 ---
 
+Also a big chunk of what I have currently learned, I haven't pushed actual repos for those tiny, learning-based projects, I'll be commiting more during my next vacation as I have just entered high school.
+
+---
+
 ## Selected / Highlighted Work
-Below are a few repositories I work on most actively with short notes to show what I focus on in each.
+Below are a few repositories I have worked on  with short notes to show what I focus on in each.
 
 - [RoboticsLib](https://github.com/Shreeshinator/RoboticsLib) — STM32 robotics library: state estimation, odometry, linear algebra primitives, PID controllers, encoder/servo abstractions and example integrations for small robots. This is the foundation for motion estimation and control used in my robot and drone projects.
 - [STM32-debug](https://github.com/Shreeshinator/STM32-debug) — Structured STM32 debugging patterns, JTAG/SWD workflows, logging, and reproducible templates for diagnosing peripheral/RTOS issues; used heavily while developing flight controllers and low-level firmware.
@@ -89,7 +94,7 @@ Built for the Indian Arduino Uno Q physical AI challenge it combines follwoing k
 - Mechanical & CAD: Onshape-driven iterative airframe design, vibration isolation, sensor mounting strategies, and manufacturability considerations.
 - ML & Deployment: Custom YOLO model, TorchScript/ONNX deployment, and runtime optimizations for onboard compute (specifically for the Arduino Uno Q).
 - Pixhawk/PX4 Integration: Onboard Pixhawk 6C (maybe, if flight alogorithm is not on Uno Q itself). MAVLink and MAVSDK integration possible.
-- Simulation first focus in Gazebo, with optimized ROS component integration.
+- Simulation first focus in Gazebo, with optimized ROS component and ROS Control integration.
   
 The interceptor drone is a work-in-progress — repositories above are used as building blocks. I regularly push firmware updates, perception experiments, and integration tests; see the repo list for links.
 
