@@ -53,8 +53,6 @@ I’m just a kid building stuff I find cool — embedded systems, robotics, appl
 
 ## Focus Areas
 
-I expanded these to be more concrete and oriented toward intermediate/advanced work — the items below reflect topics I actively explore and apply in projects.
-
 | Area | Topics & Focus of current learning and projects|
 | --- | --- |
 | Robotics & Embedded Systems | STM32 firmware & peripherals, real-time RTOS workflows (FreeRTOS), sensor fusion & state estimation (IMU fusion, Kalman filters, complementary filters), odometry & localization, motor control and feedback loops, hardware debugging & instrumentation, mechanical-electrical co-design |
