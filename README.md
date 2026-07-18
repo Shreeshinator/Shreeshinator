@@ -20,7 +20,7 @@
 
 ## About
 
-I’m a student engineer focused on **embedded systems**, **robotics**, **AI/ML**, and **CAD-driven engineering**.  
+I’m a student focused on **embedded systems**, **robotics**, **AI/ML**, and **CAD-driven engineering**.  
 I build practical systems end to end — from hardware and control logic to software tools and intelligent workflows.
 
 ---
