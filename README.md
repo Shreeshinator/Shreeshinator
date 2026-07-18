@@ -20,7 +20,7 @@
 
 ## About
 
-I’m a student engineer working on systems that combine physical platforms and intelligent software — embedded systems, robotics, and applied AI. I focus on practical end-to-end projects: hardware design and firmware, control and estimation, software tooling, and ML models that are deployable in real systems.
+I’m just a kid building stuff I find cool — embedded systems, robotics, applied AI, and much, much more. I focus on practical end-to-end projects: hardware design and firmware, control and estimation, software tooling, and  AI and ML models that are deployable in real systems.
 
 ---
 
@@ -55,12 +55,12 @@ I’m a student engineer working on systems that combine physical platforms and 
 
 I expanded these to be more concrete and oriented toward intermediate/advanced work — the items below reflect topics I actively explore and apply in projects.
 
-| Area | Topics & Focus |
+| Area | Topics & Focus of current learning and projects|
 | --- | --- |
 | Robotics & Embedded Systems | STM32 firmware & peripherals, real-time RTOS workflows (FreeRTOS), sensor fusion & state estimation (IMU fusion, Kalman filters, complementary filters), odometry & localization, motor control and feedback loops, hardware debugging & instrumentation, mechanical-electrical co-design |
 | Control Theory & Estimation | Classical control (PID tuning, frequency-domain analysis), state-space methods, LQR/LQG, model predictive control (MPC), observer design, Kalman filtering and smoothers, system identification, robustness and stability margins |
-| Agentic Systems & Language-Integrated Agents | Reinforcement learning fundamentals (policy/value methods, off-policy learning), hierarchical/option-based agents, planning + perception loops, LangChain-style agent pipelines, tool use by language agents, language graphs and knowledge-graph grounding for agent memory and reasoning |
-| AI / ML / Computer Vision (Concrete & Applied) | Probabilistic modeling & optimization, representation learning, convolutional and transformer architectures, self-supervised learning, domain adaptation, PyTorch internals (autograd, custom ops, efficient dataloaders), training at scale (mixed precision, distributed training), model compression and deployment (quantization, pruning, ONNX/TorchScript), practical CV pipelines for robotics (detection, tracking, depth estimation) |
+| Agentic Systems & Language-Integrated Agents | Reinforcement learning fundamentals (policy/value methods, off-policy learning), planning + perception loops, LangChain-style agent pipelines, tool use by language agents, language graphs and knowledge-graph grounding for agent memory and reasoning |
+| AI / ML / Computer Vision (Concrete & Applied) | Probabilistic modeling & optimization, representation learning, convolutional and transformer architectures, PyTorch internals (autograd, custom ops, efficient dataloaders), training at scale (mixed precision, distributed training), practical CV pipelines for robotics (detection, tracking, depth estimation) |
 | Software & Systems Practice | C/C++ systems programming, embedded debugging patterns, performance profiling, tooling and reproducible experiments, data pipelines and evaluation metrics |
 | CAD & Product Thinking | Parametric design, tolerance-aware assemblies, iteration for manufacturability, integration of mechanical design with sensing and actuation |
 
@@ -78,21 +78,21 @@ Below are a few repositories I work on most actively with short notes to show wh
 - [Computer-Vision-Stuff](https://github.com/Shreeshinator/Computer-Vision-Stuff) & [OpenCv-Course](https://github.com/Shreeshinator/OpenCv-Course) — Collections of CV experiments, data preprocessing pipelines, and robotics-oriented perception code (detection, tracking, depth estimation).
 - [Advanced-C](https://github.com/Shreeshinator/Advanced-C), [C-Course](https://github.com/Shreeshinator/C-Course) — Deep dives into C idioms, systems-level programming, and practical exercises that support firmware and low-level tooling.
 
-If you want, I can add short badges or a "current focus" ribbon to any of these repos to highlight status (WIP, experimenting, production-ready).
-
 ---
 
-## Current Project — Interceptor Drone
-This is my flagship project that brings together most of my areas of focus. Key components and goals:
+## Current Project —> Interceptor Drone
+This is my flagship project that brings together most of my areas of focus.
+Built for the Indian Arduino Uno Q physical AI challenge it combines follwoing key components and goals:
 
-- Perception: onboard computer vision for object detection, semantic segmentation, and optical flow; depth estimation and sensor fusion (camera + IMU) for robust situational awareness.
+- Perception: onboard computer vision for object detection, semantic segmentation, and optical flow; depth estimation and sensor fusion (camera + IMU) for robust situational awareness (using OpenCV).
 - Navigation & Autonomy: ROS 2-based perception-to-planning stack, SLAM / visual-inertial odometry, waypoint planning, and reactive obstacle avoidance; integration of higher-level planning (mission scripts, behavior trees) with low-level controllers.
-- Control & Estimation: state estimation (Kalman/UKF), PID and LQR controllers for attitude/position, and experiments with MPC for constrained trajectory tracking.
-- Embedded & Firmware: STM32/ESP32 flight controller modules, RTOS-based telemetry and fail-safe behaviors, real-time logging for post-flight analysis.
+- Control & Estimation: state estimation (Kalman/EKF), PID / LQR controllers for attitude/position, and experiments with MPC for constrained trajectory tracking.
+- Embedded & Firmware: STM32 flight controller module (Inbuilt STM32 on Uno Q), Zephyr RTOS-based telemetry and fail-safe behaviors, real-time logging for post-flight analysis.
 - Mechanical & CAD: Onshape-driven iterative airframe design, vibration isolation, sensor mounting strategies, and manufacturability considerations.
-- ML & Deployment: small, efficient perception models for edge inference (quantization, pruning), TorchScript/ONNX deployment, and runtime optimizations for onboard compute.
-- Agentic Integration: exploring language-in-the-loop tooling for mission-specification (LangChain-style), and knowledge-graph memory to store mission logs and environment summaries for higher-level reasoning.
-
+- ML & Deployment: Custom YOLO model, TorchScript/ONNX deployment, and runtime optimizations for onboard compute (specifically for the Arduino Uno Q).
+- Pixhawk/PX4 Integration: Onboard Pixhawk 6C (maybe, if flight alogorithm is not on Uno Q itself). MAVLink and MAVSDK integration possible.
+- Simulation first focus in Gazebo, with optimized ROS component integration.
+  
 The interceptor drone is a work-in-progress — repositories above are used as building blocks. I regularly push firmware updates, perception experiments, and integration tests; see the repo list for links.
 
 ---
@@ -103,7 +103,7 @@ The interceptor drone is a work-in-progress — repositories above are used as b
 - Interceptor Drone: perception, navigation, flight control, and CAD integration (described above)
 - Robust embedded debugging and reproducible firmware templates for STM32 targets
 - Experimenting with agentic language systems: LangChain-style pipelines, language-graph memory, and tool-augmented agents for robotics workflows
-- Practical model deployment for edge devices (quantization, TorchScript/ONNX, runtime optimizations)
+- Practical model deployment for edge devices (quantization, ONNX, runtime optimizations)
 
 ---
 
