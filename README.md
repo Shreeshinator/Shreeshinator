@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Embedded+Systems+%7C+Robotics+%7C+AI%2FML+%7C+CAD-Driven+Engineering;Building+practical+systems+from+hardware+to+software" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Embedded+Systems+%7C+Robotics+%7C+AI%2FML+%7C+CAD-Driven+Engineering;Building+hardware+%2B+software+systems+end-to-end;STM32+%7C+ESP32+%7C+ROS2+%7C+RTOS+%7C+Computer+Vision" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -13,70 +13,82 @@
   <a href="https://github.com/Shreeshinator?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-View%20Work-111827?style=for-the-badge&logo=github" alt="repositories" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Shreeshinator&style=for-the-badge&color=111827" alt="profile views" />
 </p>
+
+---
 
 ## About
 
-I’m a student engineer focused on **embedded systems**, **robotics**, **AI/ML**, and **CAD-driven engineering**. I build practical systems end to end, from hardware and control logic to software tooling and applied experimentation.
+I’m a student engineer focused on **embedded systems**, **robotics**, **AI/ML**, and **CAD-driven engineering**.  
+I build practical systems end to end — from hardware and control logic to software tools and intelligent workflows.
 
-## Visual overview
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreeshinator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://img.shields.io/badge/DSA-0f172a?style=for-the-badge&logo=thealgorithms&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreeshinator&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/ROS%202-111827?style=for-the-badge&logo=ros&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/STM32-111827?style=for-the-badge&logo=stmicroelectronics&logoColor=5EEAD4" />
+  <img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=F87171" />
+  <img src="https://img.shields.io/badge/RTOS-111827?style=for-the-badge&logo=freertos&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/CAD%20(Onshape)-111827?style=for-the-badge&logoColor=22D3EE" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreeshinator&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,pytorch,opencv,ros&theme=dark" />
 </p>
 
-## Focus areas
+---
+
+## Focus Areas
 
 | Area | Focus |
 | --- | --- |
-| Robotics & Embedded Systems | STM32 development, control systems, motion estimation, PID control, debugging workflows, and hardware integration |
-| AI / ML / Computer Vision | Machine learning fundamentals, neural network experiments, and computer vision projects |
-| Programming & Technical Practice | C, Python, JavaScript, data analysis, and engineering-oriented problem solving |
-| CAD & Product Thinking | Mechanical design, iteration, and translating concepts into working prototypes |
+| Robotics & Embedded Systems | STM32 development, ESP32 projects, control systems, motion estimation, PID control, debugging workflows, and hardware integration |
+| AI / ML / Computer Vision | Machine learning fundamentals, PyTorch experiments, and computer vision projects |
+| Programming & Technical Practice | C, C++, Python, JavaScript, DSA, and engineering-oriented problem solving |
+| CAD & Product Thinking | Onshape-based mechanical design, iteration, and translating concepts into working prototypes |
 
+---
 
-## 🛠️ Tech Stack
-
-### 🌐 Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-</p>
-
-## Selected work
+## Selected Work
 
 ### Robotics & Embedded
-- [RoboticsLib](https://github.com/Shreeshinator/RoboticsLib) — STM32 robotics library covering odometry, linear algebra, PID control, servos, and encoders
-- [STM32-debug](https://github.com/Shreeshinator/STM32-debug) and [Stm32-debugging-templates](https://github.com/Shreeshinator/Stm32-debugging-templates) — structured STM32 debugging workflows
-- [ROS-Cheatsheet](https://github.com/Shreeshinator/ROS-Cheatsheet) — ROS 2 Python/C++ reference notes
+- [RoboticsLib](https://github.com/Shreeshinator/RoboticsLib) — STM32 robotics library covering odometry, linear algebra, PID control, servos, and encoders  
+- [STM32-debug](https://github.com/Shreeshinator/STM32-debug) and [Stm32-debugging-templates](https://github.com/Shreeshinator/Stm32-debugging-templates) — structured STM32 debugging workflows  
+- [ROS-Cheatsheet](https://github.com/Shreeshinator/ROS-Cheatsheet) — ROS 2 Python/C++ reference notes  
 
 ### AI / ML / Computer Vision
-- [MyMicroGrad](https://github.com/Shreeshinator/MyMicroGrad), [MyMakeMore](https://github.com/Shreeshinator/MyMakeMore), [MakeMoreMLP](https://github.com/Shreeshinator/MakeMoreMLP), [MakeMoreBatch-norm](https://github.com/Shreeshinator/MakeMoreBatch-norm), [MakemoreViz](https://github.com/Shreeshinator/MakemoreViz) — machine learning and neural network experiments
-- [Computer-Vision-Stuff](https://github.com/Shreeshinator/Computer-Vision-Stuff) and [OpenCv-Course](https://github.com/Shreeshinator/OpenCv-Course) — computer vision work and course-based exploration
+- [MyMicroGrad](https://github.com/Shreeshinator/MyMicroGrad), [MyMakeMore](https://github.com/Shreeshinator/MyMakeMore), [MakeMoreMLP](https://github.com/Shreeshinator/MakeMoreMLP), [MakeMoreBatch-normalized](https://github.com/Shreeshinator/MakeMoreBatch-normalized)  
+- [Computer-Vision-Stuff](https://github.com/Shreeshinator/Computer-Vision-Stuff) and [OpenCv-Course](https://github.com/Shreeshinator/OpenCv-Course) — computer vision work and explorations  
 
 ### Programming & Engineering Practice
-- [Advanced-C](https://github.com/Shreeshinator/Advanced-C), [C-Course](https://github.com/Shreeshinator/C-Course), [Python-course](https://github.com/Shreeshinator/Python-course) — language practice and fundamentals
-- [JavaScript-Projects](https://github.com/Shreeshinator/JavaScript-Projects), [Pomodoro-app](https://github.com/Shreeshinator/Pomodoro-app) — small application builds
-- [NumPy-Pandas_Basics](https://github.com/Shreeshinator/NumPy-Pandas_Basics), [GIFmaker](https://github.com/Shreeshinator/GIFmaker), [HTML](https://github.com/Shreeshinator/HTML), and [CSS](https://github.com/Shreeshinator/CSS) — data and web fundamentals
+- [Advanced-C](https://github.com/Shreeshinator/Advanced-C), [C-Course](https://github.com/Shreeshinator/C-Course), [Python-course](https://github.com/Shreeshinator/Python-course)  
+- [JavaScript-Projects](https://github.com/Shreeshinator/JavaScript-Projects), [Pomodoro-app](https://github.com/Shreeshinator/Pomodoro-app)  
+- [NumPy-Pandas_Basics](https://github.com/Shreeshinator/NumPy-Pandas_Basics), [GIFmaker](https://github.com/Shreeshinator/GIFmaker), [HTML](https://github.com/Shreeshinator/HTML), [CSS](https://github.com/Shreeshinator/CSS)
 
-## More work
+---
 
-Explore all of my public repositories here: [github.com/Shreeshinator?tab=repositories](https://github.com/Shreeshinator?tab=repositories)
+## Currently Building
 
-## Currently building
+- ROS 2 + computer vision + robotics-focused projects  
+- Better embedded debugging and control workflows  
+- Practical AI integrations for real-world systems
 
-I’m currently exploring ROS 2, computer vision, and robotics-focused projects as part of my ongoing work.
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreeshinator&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+  <a href="https://github.com/Shreeshinator?tab=repositories">Explore all repositories →</a>
 </p>
