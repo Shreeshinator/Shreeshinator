@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Shreesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=220&section=header&text=Shreesh%20Tripathi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Embedded+Systems+%7C+Robotics+%7C+AI%2FML+%7C+CAD-Driven+Engineering;Building+practical+systems+from+hardware+to+software" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Embedded+Systems+%7C+Robotics+%7C+AI%2FML+%7C+CAD-Driven+Engineering;Building+practical+systems+from+hardware+to+software" alt="typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Shreeshinator">
-    <img src="https://img.shields.io/github/followers/Shreeshinator?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Shreeshinator?label=Followers&style=for-the-badge&logo=github&color=111827" alt="followers" />
   </a>
   <a href="https://github.com/Shreeshinator?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-View%20Work-111827?style=for-the-badge&logo=github" alt="repositories" />
@@ -17,12 +17,12 @@
 
 ## About
 
-I’m a student engineer focused on **embedded systems**, **robotics**, **AI/ML**, and **CAD-driven engineering**. I enjoy building practical systems end to end, from low-level hardware and control logic to software tooling and applied experiments.
+I’m a student engineer focused on **embedded systems**, **robotics**, **AI/ML**, and **CAD-driven engineering**. I enjoy building practical systems end to end — from hardware and control logic to software tooling and applied experimentation.
 
 ## Visual overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreeshinator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreeshinator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
