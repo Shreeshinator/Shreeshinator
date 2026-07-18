@@ -69,4 +69,3 @@ I’m currently exploring ROS 2, computer vision, and robotics-focused projects 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shreeshinator&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
 </p>
-
