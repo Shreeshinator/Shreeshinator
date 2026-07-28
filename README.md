@@ -69,31 +69,23 @@ Also a big chunk of what I have currently learned, I haven't pushed actual repos
 
 ---
 
-## Selected / Highlighted Work
-Below are a few repositories I have worked on  with short notes to show what I focus on in each.
-
-- [RoboticsLib](https://github.com/Shreeshinator/RoboticsLib) — STM32 robotics library: state estimation, odometry, linear algebra primitives, PID controllers, encoder/servo abstractions and example integrations for small robots. This is the foundation for motion estimation and control used in my robot and drone projects.
-- [STM32-debug](https://github.com/Shreeshinator/STM32-debug) — Structured STM32 debugging patterns, JTAG/SWD workflows, logging, and reproducible templates for diagnosing peripheral/RTOS issues; used heavily while developing flight controllers and low-level firmware.
-- [Stm32-debugging-templates](https://github.com/Shreeshinator/Stm32-debugging-templates) — Minimal templates and checklists to jumpstart debugging on new STM32 boards and firmware.
-- [ROS-Cheatsheet](https://github.com/Shreeshinator/ROS-Cheatsheet) — Practical ROS2 (Python/C++) patterns, launch organization, debugging tips, and common CLI recipes for integrating perception, planning, and control.
-- [MyMicroGrad](https://github.com/Shreeshinator/MyMicroGrad) — Minimal autodiff engine: a teaching-oriented implementation showing autograd internals and backprop mechanics; useful when implementing custom PyTorch-like components or understanding learning dynamics for small embedded models.
-- [MyMakeMore](https://github.com/Shreeshinator/MyMakeMore) / [MakeMoreMLP](https://github.com/Shreeshinator/MakeMoreMLP) — Generative-model experiments and MLP training diagnostics; used to test training setups and optimization tricks before scaling to larger architectures.
-- [Computer-Vision-Stuff](https://github.com/Shreeshinator/Computer-Vision-Stuff) & [OpenCv-Course](https://github.com/Shreeshinator/OpenCv-Course) — Collections of CV experiments, data preprocessing pipelines, and robotics-oriented perception code (detection, tracking, depth estimation).
-- [Advanced-C](https://github.com/Shreeshinator/Advanced-C), [C-Course](https://github.com/Shreeshinator/C-Course) — Deep dives into C idioms, systems-level programming, and practical exercises that support firmware and low-level tooling.
-
----
-
 ## Current Project —> Interceptor Drone
 This is my flagship project that brings together most of my areas of focus.
 Built for the Indian Arduino Uno Q physical AI challenge it combines follwoing key components and goals:
 
 - Perception: onboard computer vision for object detection, semantic segmentation, and optical flow; depth estimation and sensor fusion (camera + IMU) for robust situational awareness (using OpenCV).
+
 - Navigation & Autonomy: ROS 2-based perception-to-planning stack, SLAM / visual-inertial odometry, waypoint planning, and reactive obstacle avoidance; integration of higher-level planning (mission scripts, behavior trees) with low-level controllers.
+
 - Control & Estimation: state estimation (Kalman/EKF), PID / LQR controllers for attitude/position, and experiments with MPC for constrained trajectory tracking.
-- Embedded & Firmware: STM32 flight controller module (Inbuilt STM32 on Uno Q), Zephyr RTOS-based telemetry and fail-safe behaviors, real-time logging for post-flight analysis.
+
+- Embedded & Firmware: STM32 flight controller module (Inbuilt STM32 on Uno Q), Zephyr RTOS-based, telemetry and fail-safe behaviors, real-time logging for post-flight analysis.
+
 - Mechanical & CAD: Onshape-driven iterative airframe design, vibration isolation, sensor mounting strategies, and manufacturability considerations.
+
 - ML & Deployment: Custom YOLO model, TorchScript/ONNX deployment, and runtime optimizations for onboard compute (specifically for the Arduino Uno Q).
 - Pixhawk/PX4 Integration: Onboard Pixhawk 6C (maybe, if flight alogorithm is not on Uno Q itself). MAVLink and MAVSDK integration possible.
+
 - Simulation first focus in Gazebo, with optimized ROS component and ROS Control integration.
   
 The interceptor drone is a work-in-progress — repositories above are used as building blocks. I regularly push firmware updates, perception experiments, and integration tests; see the repo list for links.
@@ -103,10 +95,9 @@ The interceptor drone is a work-in-progress — repositories above are used as b
 ## Currently Building
 
 - Advanced perception + control integrations for ROS 2 robots (vision pipelines + state estimation + closed-loop control)
+- Simulation for ROS2 in Gazebo.
 - Interceptor Drone: perception, navigation, flight control, and CAD integration (described above)
-- Robust embedded debugging and reproducible firmware templates for STM32 targets
-- Experimenting with agentic language systems: LangChain-style pipelines, language-graph memory, and tool-augmented agents for robotics workflows
-- Practical model deployment for edge devices (quantization, ONNX, runtime optimizations)
+- Learning Agentic AI Systems: LangChain, RAG, etc.
 
 ---
 
