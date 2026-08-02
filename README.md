@@ -71,7 +71,6 @@ Also a big chunk of what I have currently learned, I haven't pushed actual repos
 
 ## Current Project —> Interceptor Drone
 This is my flagship project that brings together most of my areas of focus.
-Built for the Indian Arduino Uno Q physical AI challenge it combines follwoing key components and goals:
 
 - Perception: onboard computer vision for object detection, semantic segmentation, and optical flow; depth estimation and sensor fusion (camera + IMU) for robust situational awareness (using OpenCV).
 
@@ -93,11 +92,16 @@ The interceptor drone is a work-in-progress — repositories above are used as b
 ---
 
 ## Currently Building
+I am also currently working on an intelligent robotic arm that combines the following key components and goals:
+- Also a focus on simulation.
+- Using the Arduino Uno Q as the brain.
+- Running a lightweight VLA model on the cloud.
+- ROS2 and ros2_control integration.
+- NLP control.
+- Inverse kinematics built from scratch.
+- Inexpensive.
+- Fully open source and documented.
 
-- Advanced perception + control integrations for ROS 2 robots (vision pipelines + state estimation + closed-loop control)
-- Simulation for ROS2 in Gazebo.
-- Interceptor Drone: perception, navigation, flight control, and CAD integration (described above)
-- Learning Agentic AI Systems: LangChain, RAG, etc.
 
 ---
 
