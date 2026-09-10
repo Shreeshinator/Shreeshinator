@@ -20,7 +20,7 @@
 
 ## About
 
-I’m just a kid building stuff I find cool — embedded systems, robotics, applied AI, and much, much more.
+I’m just a kid building stuff I find cool — embedded systems, robotics, applied AI, and much more.
 
 ---
 
@@ -68,8 +68,6 @@ This is my flagship project that brings together most of my areas of focus.
 - Pixhawk/PX4 Integration: Onboard Pixhawk 6C (maybe, if flight alogorithm is not on Uno Q itself). MAVLink and MAVSDK integration possible.
 
 - Simulation first focus in Gazebo, with optimized ROS component and ROS Control integration.
-  
-The interceptor drone is a work-in-progress — repositories above are used as building blocks. I regularly push firmware updates, perception experiments, and integration tests; see the repo list for links.
 
 ---
 
