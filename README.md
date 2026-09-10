@@ -20,8 +20,7 @@
 
 ## About
 
-I’m just a kid building stuff I find cool — embedded systems, robotics, applied AI, and much, much more. I focus on practical end-to-end projects: hardware design and firmware, control and estimation, software tooling, and  AI and ML models that are deployable in real systems.  
-Contact me on shreeshtripathi13@gmail.com for more info and collaboration options.  
+I’m just a kid building stuff I find cool — embedded systems, robotics, applied AI, and much, much more.
 
 ---
 
@@ -52,23 +51,6 @@ Contact me on shreeshtripathi13@gmail.com for more info and collaboration option
 
 ---
 
-## Focus Areas
-
-| Area | Topics & Focus of current learning and projects|
-| --- | --- |
-| Robotics & Embedded Systems | STM32 firmware & peripherals, real-time RTOS workflows (FreeRTOS), sensor fusion & state estimation (IMU fusion, Kalman filters, complementary filters), odometry & localization, motor control and feedback loops, hardware debugging & instrumentation, mechanical-electrical co-design |
-| Control Theory & Estimation | Classical control (PID tuning, frequency-domain analysis), state-space methods, LQR/LQG, model predictive control (MPC), observer design, Kalman filtering and smoothers, system identification, robustness and stability margins |
-| Agentic Systems & Language-Integrated Agents | Reinforcement learning fundamentals (policy/value methods, off-policy learning), planning + perception loops, LangChain-style agent pipelines, tool use by language agents, language graphs and knowledge-graph grounding for agent memory and reasoning |
-| AI / ML / Computer Vision (Concrete & Applied) | Probabilistic modeling & optimization, representation learning, convolutional and transformer architectures, PyTorch internals (autograd, custom ops, efficient dataloaders), training at scale (mixed precision, distributed training), practical CV pipelines for robotics (detection, tracking, depth estimation) |
-| Software & Systems Practice | C/C++ systems programming, embedded debugging patterns, performance profiling, tooling and reproducible experiments, data pipelines and evaluation metrics |
-| CAD & Product Thinking | Parametric design, tolerance-aware assemblies, iteration for manufacturability, integration of mechanical design with sensing and actuation |
-
----
-
-Also a big chunk of what I have currently learned, I haven't pushed actual repos for those tiny, learning-based projects, I'll be commiting more during my next vacation as I have just entered high school.
-
----
-
 ## Current Project —> Interceptor Drone
 This is my flagship project that brings together most of my areas of focus.
 
@@ -88,20 +70,6 @@ This is my flagship project that brings together most of my areas of focus.
 - Simulation first focus in Gazebo, with optimized ROS component and ROS Control integration.
   
 The interceptor drone is a work-in-progress — repositories above are used as building blocks. I regularly push firmware updates, perception experiments, and integration tests; see the repo list for links.
-
----
-
-## Currently Building
-I am also currently working on an intelligent robotic arm that combines the following key components and goals:
-- Also a focus on simulation.
-- Using the Arduino Uno Q as the brain.
-- Running a lightweight VLA model on the cloud.
-- ROS2 and ros2_control integration.
-- NLP control.
-- Inverse kinematics built from scratch.
-- Inexpensive.
-- Fully open source and documented.
-
 
 ---
 
