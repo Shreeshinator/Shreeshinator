@@ -32,6 +32,7 @@ I’m just a kid building stuff I find cool — embedded systems, robotics, appl
   <img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Jupyter-0f172a?style=for-the-badge&logo=jupyter&logoColor=F37626" />
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" />
@@ -42,6 +43,8 @@ I’m just a kid building stuff I find cool — embedded systems, robotics, appl
   <img src="https://img.shields.io/badge/STM32-111827?style=for-the-badge&logo=stmicroelectronics&logoColor=5EEAD4" />
   <img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=F87171" />
   <img src="https://img.shields.io/badge/RTOS-111827?style=for-the-badge&logo=freertos&logoColor=A3E635" />
+  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/CAD%20(Onshape)-111827?style=for-the-badge&logo=onshape&logoColor=22D3EE" />
 </p>
 
@@ -51,23 +54,17 @@ I’m just a kid building stuff I find cool — embedded systems, robotics, appl
 
 ---
 
-## Current Project —> Interceptor Drone
-This is my flagship project that brings together most of my areas of focus.
+## Latest Project —> NexusArm
+NexusArm is my latest and greatest robotics project: a precision robotic arm platform focused on smart control, embedded reliability, and practical real-world automation workflows.
 
-- Perception: onboard computer vision for object detection, semantic segmentation, and optical flow; depth estimation and sensor fusion (camera + IMU) for robust situational awareness (using OpenCV).
+- Core Focus: high-precision manipulation with robust motion planning and repeatable control.
+- Intelligence Layer: AI-assisted perception and decision support for adaptive task execution.
+- Embedded + Robotics Stack: tight integration across firmware, control systems, and ROS-based orchestration.
+- Design Pipeline: iterative CAD-to-prototype workflow for fast hardware improvement cycles.
 
-- Navigation & Autonomy: ROS 2-based perception-to-planning stack, SLAM / visual-inertial odometry, waypoint planning, and reactive obstacle avoidance; integration of higher-level planning (mission scripts, behavior trees) with low-level controllers.
-
-- Control & Estimation: state estimation (Kalman/EKF), PID / LQR controllers for attitude/position, and experiments with MPC for constrained trajectory tracking.
-
-- Embedded & Firmware: STM32 flight controller module (Inbuilt STM32 on Uno Q), Zephyr RTOS-based, telemetry and fail-safe behaviors, real-time logging for post-flight analysis.
-
-- Mechanical & CAD: Onshape-driven iterative airframe design, vibration isolation, sensor mounting strategies, and manufacturability considerations.
-
-- ML & Deployment: Custom YOLO model, TorchScript/ONNX deployment, and runtime optimizations for onboard compute (specifically for the Arduino Uno Q).
-- Pixhawk/PX4 Integration: Onboard Pixhawk 6C (maybe, if flight alogorithm is not on Uno Q itself). MAVLink and MAVSDK integration possible.
-
-- Simulation first focus in Gazebo, with optimized ROS component and ROS Control integration.
+<p align="center">
+  <a href="https://github.com/Shreeshinator/NexusArm">View NexusArm on GitHub →</a>
+</p>
 
 ---
 
