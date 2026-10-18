@@ -23,28 +23,3 @@
 I’m just a kid building stuff I find cool — embedded systems, robotics, applied AI, and much more.
 
 ---
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-0f172a?style=for-the-badge&logo=thealgorithms&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS%202-111827?style=for-the-badge&logo=ros&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/STM32-111827?style=for-the-badge&logo=stmicroelectronics&logoColor=5EEAD4" />
-  <img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=F87171" />
-  <img src="https://img.shields.io/badge/RTOS-111827?style=for-the-badge&logo=freertos&logoColor=A3E635" />
-  <img src="https://img.shields.io/badge/CAD%20(Onshape)-111827?style=for-the-badge&logo=onshape&logoColor=22D3EE" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,pytorch,opencv,ros&theme=dark" />
-</p>
