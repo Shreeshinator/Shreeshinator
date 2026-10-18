@@ -48,29 +48,3 @@ I’m just a kid building stuff I find cool — embedded systems, robotics, appl
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,pytorch,opencv,ros&theme=dark" />
 </p>
-
----
-
-## Current Project —> Interceptor Drone
-This is my flagship project that brings together most of my areas of focus.
-
-- Perception: onboard computer vision for object detection, semantic segmentation, and optical flow; depth estimation and sensor fusion (camera + IMU) for robust situational awareness (using OpenCV).
-
-- Navigation & Autonomy: ROS 2-based perception-to-planning stack, SLAM / visual-inertial odometry, waypoint planning, and reactive obstacle avoidance; integration of higher-level planning (mission scripts, behavior trees) with low-level controllers.
-
-- Control & Estimation: state estimation (Kalman/EKF), PID / LQR controllers for attitude/position, and experiments with MPC for constrained trajectory tracking.
-
-- Embedded & Firmware: STM32 flight controller module (Inbuilt STM32 on Uno Q), Zephyr RTOS-based, telemetry and fail-safe behaviors, real-time logging for post-flight analysis.
-
-- Mechanical & CAD: Onshape-driven iterative airframe design, vibration isolation, sensor mounting strategies, and manufacturability considerations.
-
-- ML & Deployment: Custom YOLO model, TorchScript/ONNX deployment, and runtime optimizations for onboard compute (specifically for the Arduino Uno Q).
-- Pixhawk/PX4 Integration: Onboard Pixhawk 6C (maybe, if flight alogorithm is not on Uno Q itself). MAVLink and MAVSDK integration possible.
-
-- Simulation first focus in Gazebo, with optimized ROS component and ROS Control integration.
-
----
-
-<p align="center">
-  <a href="https://github.com/Shreeshinator?tab=repositories">Explore all repositories →</a>
-</p>
